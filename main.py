@@ -25,7 +25,7 @@ START_IMG = os.environ.get("START_IMG")
 
 
 bot = Client(
-    "VickBot" ,
+    "ArnavBot" ,
     api_id = API_ID,
     api_hash = API_HASH ,
     bot_token = BOT_TOKEN
